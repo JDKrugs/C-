@@ -7,10 +7,10 @@ This repository showcases my understanding of core C++ programming concepts, str
 Throughout this journey, I developed strong logical thinking skills and gained deeper insight into how low-level programming works compared to higher-level languages.
 
 
-📚 Concepts Mastered</br>
+📚 Concepts Mastered </br>
 
-🔀 Control Structures</br>
-I learned how to control program execution using:</br>
+🔀 Control Structures </br>
+I learned how to control program execution using: </br>
 • Conditional statements (if, else, switch) </br>
 • Nested decisions </br>
 • Iteration using for, while, and do-while loops </br>
